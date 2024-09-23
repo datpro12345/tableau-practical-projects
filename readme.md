@@ -8,7 +8,7 @@ The **Tableau Practical Projects** repository is dedicated to showcasing real-wo
 ## Projects
 
 ### 1. Global Hapiness Insights
-[Story Overview]
+![Story Overview](https://github.com/datpro12345/tableau-practical-projects/blob/master/Global-Happiness-Insights/screenshot/Screenshot%202024-09-23%20at%2001.11.11.png?raw=true)
 
 This project analyzes the **World Happiness Report (2015-2023)** data to uncover global happiness trends and the factors influencing them. Utilizing Tableau’s interactive Storypoints, the project not only presents comprehensive dashboards but also guides users through a cohesive narrative, enhancing the understanding of key insights. Storypoints were chosen over traditional dashboards to provide a structured storytelling experience, allowing stakeholders to follow a guided analysis and grasp the implications of the data more effectively.
 
